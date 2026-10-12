@@ -84,4 +84,10 @@
     "workbench.settings.useSplitJSON": true,
     "workbench.startupEditor": "newUntitledFile",
     "workbench.panel.defaultLocation": "right",
+    "chat.viewSessions.orientation": "stacked",
+    "workbench.activityBar.location": "top",
+    "chat.disableAIFeatures": true,
+    "workbench.settings.applyToAllProfiles": [
+      "chat.disableAIFeatures"
+    ],
 }
